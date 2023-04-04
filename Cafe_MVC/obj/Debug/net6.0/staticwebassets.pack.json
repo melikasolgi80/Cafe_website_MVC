@@ -1,0 +1,769 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Cafe_MVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Cafe_MVC.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\Style\\CssStyle.css",
+      "PackagePath": "staticwebassets\\assets\\Style\\CssStyle.css"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\Style\\Js.js",
+      "PackagePath": "staticwebassets\\assets\\Style\\Js.js"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\caffee\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\caffee\\11.jpg"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\caffee\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\caffee\\12.jpg"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\caffee\\1511.jpg",
+      "PackagePath": "staticwebassets\\assets\\caffee\\1511.jpg"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\caffee\\1515.jpg",
+      "PackagePath": "staticwebassets\\assets\\caffee\\1515.jpg"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\caffee\\1547.jpg",
+      "PackagePath": "staticwebassets\\assets\\caffee\\1547.jpg"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\caffee\\1588.jpg",
+      "PackagePath": "staticwebassets\\assets\\caffee\\1588.jpg"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\caffee\\16.jpg",
+      "PackagePath": "staticwebassets\\assets\\caffee\\16.jpg"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\caffee\\19.jpg",
+      "PackagePath": "staticwebassets\\assets\\caffee\\19.jpg"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\caffee\\2.png",
+      "PackagePath": "staticwebassets\\assets\\caffee\\2.png"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\caffee\\215.jpg",
+      "PackagePath": "staticwebassets\\assets\\caffee\\215.jpg"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\caffee\\25.jpg",
+      "PackagePath": "staticwebassets\\assets\\caffee\\25.jpg"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\caffee\\27.jpg",
+      "PackagePath": "staticwebassets\\assets\\caffee\\27.jpg"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\caffee\\284.jpg",
+      "PackagePath": "staticwebassets\\assets\\caffee\\284.jpg"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\caffee\\3256.jpg",
+      "PackagePath": "staticwebassets\\assets\\caffee\\3256.jpg"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\caffee\\336655.jpg",
+      "PackagePath": "staticwebassets\\assets\\caffee\\336655.jpg"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\caffee\\4524.jpg",
+      "PackagePath": "staticwebassets\\assets\\caffee\\4524.jpg"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\caffee\\475.jpg",
+      "PackagePath": "staticwebassets\\assets\\caffee\\475.jpg"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\caffee\\482.jpg",
+      "PackagePath": "staticwebassets\\assets\\caffee\\482.jpg"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\caffee\\4859.jpg",
+      "PackagePath": "staticwebassets\\assets\\caffee\\4859.jpg"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\caffee\\4895.jpg",
+      "PackagePath": "staticwebassets\\assets\\caffee\\4895.jpg"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\caffee\\54.jpg",
+      "PackagePath": "staticwebassets\\assets\\caffee\\54.jpg"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\caffee\\54216.jpg",
+      "PackagePath": "staticwebassets\\assets\\caffee\\54216.jpg"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\caffee\\544.jpg",
+      "PackagePath": "staticwebassets\\assets\\caffee\\544.jpg"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\caffee\\5446.jpg",
+      "PackagePath": "staticwebassets\\assets\\caffee\\5446.jpg"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\caffee\\5464.jpg",
+      "PackagePath": "staticwebassets\\assets\\caffee\\5464.jpg"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\caffee\\5552.jpg",
+      "PackagePath": "staticwebassets\\assets\\caffee\\5552.jpg"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\caffee\\5565.jpg",
+      "PackagePath": "staticwebassets\\assets\\caffee\\5565.jpg"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\caffee\\565455.jpg",
+      "PackagePath": "staticwebassets\\assets\\caffee\\565455.jpg"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\caffee\\5655.jpg",
+      "PackagePath": "staticwebassets\\assets\\caffee\\5655.jpg"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\caffee\\65248.jpg",
+      "PackagePath": "staticwebassets\\assets\\caffee\\65248.jpg"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\caffee\\6532.jpg",
+      "PackagePath": "staticwebassets\\assets\\caffee\\6532.jpg"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\caffee\\6542.jpg",
+      "PackagePath": "staticwebassets\\assets\\caffee\\6542.jpg"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\caffee\\778.jpg",
+      "PackagePath": "staticwebassets\\assets\\caffee\\778.jpg"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\caffee\\784.jpg",
+      "PackagePath": "staticwebassets\\assets\\caffee\\784.jpg"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\caffee\\7845.jpg",
+      "PackagePath": "staticwebassets\\assets\\caffee\\7845.jpg"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\caffee\\8452.jpg",
+      "PackagePath": "staticwebassets\\assets\\caffee\\8452.jpg"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\caffee\\8456.jpg",
+      "PackagePath": "staticwebassets\\assets\\caffee\\8456.jpg"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\caffee\\854.jpg",
+      "PackagePath": "staticwebassets\\assets\\caffee\\854.jpg"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\caffee\\8845.jpg",
+      "PackagePath": "staticwebassets\\assets\\caffee\\8845.jpg"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\caffee\\894.jpg",
+      "PackagePath": "staticwebassets\\assets\\caffee\\894.jpg"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\caffee\\942.jpg",
+      "PackagePath": "staticwebassets\\assets\\caffee\\942.jpg"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\caffee\\945.jpg",
+      "PackagePath": "staticwebassets\\assets\\caffee\\945.jpg"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\caffee\\954.jpg",
+      "PackagePath": "staticwebassets\\assets\\caffee\\954.jpg"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\caffee\\9543.jpg",
+      "PackagePath": "staticwebassets\\assets\\caffee\\9543.jpg"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\caffee\\Art. - Imgur.gif",
+      "PackagePath": "staticwebassets\\assets\\caffee\\Art. - Imgur.gif"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\caffee\\for gif.txt",
+      "PackagePath": "staticwebassets\\assets\\caffee\\for gif.txt"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\caffee\\giphy360p.mp4",
+      "PackagePath": "staticwebassets\\assets\\caffee\\giphy360p.mp4"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\.DS_Store"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\.gitignore",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\.gitignore"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\LICENSE",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\README.md",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\README.md"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\bootstrap-rtl.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\bootstrap-rtl.css"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\bootstrap-rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\bootstrap-rtl.min.css"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\composer.json",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\composer.json"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\.DS_Store"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-1\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-1\\css\\style.css"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-1\\index.html",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-1\\index.html"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-1\\js\\script.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-1\\js\\script.js"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-2\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-2\\css\\style.css"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-2\\index.html",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-2\\index.html"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-2\\js\\script.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-2\\js\\script.js"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-3\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-3\\css\\style.css"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-3\\index.html",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-3\\index.html"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-3\\js\\script.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-3\\js\\script.js"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-4\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-4\\css\\style.css"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-4\\index.html",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-4\\index.html"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-4\\js\\script.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-4\\js\\script.js"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-5\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-5\\css\\style.css"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-5\\index.html",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-5\\index.html"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-5\\js\\script.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-5\\js\\script.js"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\css\\style.css"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\fonts\\eot\\IRANSansWeb.eot",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\fonts\\eot\\IRANSansWeb.eot"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\fonts\\eot\\IRANSansWeb_Black.eot",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\fonts\\eot\\IRANSansWeb_Black.eot"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\fonts\\eot\\IRANSansWeb_Bold.eot",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\fonts\\eot\\IRANSansWeb_Bold.eot"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\fonts\\eot\\IRANSansWeb_Light.eot",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\fonts\\eot\\IRANSansWeb_Light.eot"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\fonts\\eot\\IRANSansWeb_Medium.eot",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\fonts\\eot\\IRANSansWeb_Medium.eot"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\fonts\\eot\\IRANSansWeb_UltraLight.eot",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\fonts\\eot\\IRANSansWeb_UltraLight.eot"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\fonts\\ttf\\IRANSansWeb.ttf",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\fonts\\ttf\\IRANSansWeb.ttf"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\fonts\\ttf\\IRANSansWeb_Black.ttf",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\fonts\\ttf\\IRANSansWeb_Black.ttf"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\fonts\\ttf\\IRANSansWeb_Bold.ttf",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\fonts\\ttf\\IRANSansWeb_Bold.ttf"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\fonts\\ttf\\IRANSansWeb_Light.ttf",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\fonts\\ttf\\IRANSansWeb_Light.ttf"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\fonts\\ttf\\IRANSansWeb_Medium.ttf",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\fonts\\ttf\\IRANSansWeb_Medium.ttf"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\fonts\\ttf\\IRANSansWeb_UltraLight.ttf",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\fonts\\ttf\\IRANSansWeb_UltraLight.ttf"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\fonts\\woff2\\IRANSansWeb.woff2",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\fonts\\woff2\\IRANSansWeb.woff2"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\fonts\\woff2\\IRANSansWeb_Black.woff2",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\fonts\\woff2\\IRANSansWeb_Black.woff2"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\fonts\\woff2\\IRANSansWeb_Bold.woff2",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\fonts\\woff2\\IRANSansWeb_Bold.woff2"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\fonts\\woff2\\IRANSansWeb_Light.woff2",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\fonts\\woff2\\IRANSansWeb_Light.woff2"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\fonts\\woff2\\IRANSansWeb_Medium.woff2",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\fonts\\woff2\\IRANSansWeb_Medium.woff2"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\fonts\\woff2\\IRANSansWeb_UltraLight.woff2",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\fonts\\woff2\\IRANSansWeb_UltraLight.woff2"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\fonts\\woff\\IRANSansWeb.woff",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\fonts\\woff\\IRANSansWeb.woff"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\fonts\\woff\\IRANSansWeb_Black.woff",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\fonts\\woff\\IRANSansWeb_Black.woff"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\fonts\\woff\\IRANSansWeb_Bold.woff",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\fonts\\woff\\IRANSansWeb_Bold.woff"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\fonts\\woff\\IRANSansWeb_Light.woff",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\fonts\\woff\\IRANSansWeb_Light.woff"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\fonts\\woff\\IRANSansWeb_Medium.woff",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\fonts\\woff\\IRANSansWeb_Medium.woff"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\fonts\\woff\\IRANSansWeb_UltraLight.woff",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\fonts\\woff\\IRANSansWeb_UltraLight.woff"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\index.html",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\index.html"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\js\\holder.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\js\\holder.min.js"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\example-6\\js\\main.js"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\style\\css\\vazir.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\style\\css\\vazir.css"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\style\\fonts\\eot\\Vazir-Bold.eot",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\style\\fonts\\eot\\Vazir-Bold.eot"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\style\\fonts\\eot\\Vazir-Light.eot",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\style\\fonts\\eot\\Vazir-Light.eot"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\style\\fonts\\eot\\Vazir-Medium.eot",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\style\\fonts\\eot\\Vazir-Medium.eot"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\style\\fonts\\eot\\Vazir-Thin.eot",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\style\\fonts\\eot\\Vazir-Thin.eot"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\style\\fonts\\eot\\Vazir.eot",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\style\\fonts\\eot\\Vazir.eot"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\style\\fonts\\ttf\\Vazir-Bold.ttf",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\style\\fonts\\ttf\\Vazir-Bold.ttf"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\style\\fonts\\ttf\\Vazir-Light.ttf",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\style\\fonts\\ttf\\Vazir-Light.ttf"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\style\\fonts\\ttf\\Vazir-Medium.ttf",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\style\\fonts\\ttf\\Vazir-Medium.ttf"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\style\\fonts\\ttf\\Vazir-Thin.ttf",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\style\\fonts\\ttf\\Vazir-Thin.ttf"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\style\\fonts\\ttf\\Vazir.ttf",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\style\\fonts\\ttf\\Vazir.ttf"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\style\\fonts\\woff2\\Vazir-Bold.woff2",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\style\\fonts\\woff2\\Vazir-Bold.woff2"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\style\\fonts\\woff2\\Vazir-Light.woff2",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\style\\fonts\\woff2\\Vazir-Light.woff2"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\style\\fonts\\woff2\\Vazir-Medium.woff2",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\style\\fonts\\woff2\\Vazir-Medium.woff2"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\style\\fonts\\woff2\\Vazir-Thin.woff2",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\style\\fonts\\woff2\\Vazir-Thin.woff2"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\style\\fonts\\woff2\\Vazir.woff2",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\style\\fonts\\woff2\\Vazir.woff2"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\style\\fonts\\woff\\Vazir-Bold.woff",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\style\\fonts\\woff\\Vazir-Bold.woff"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\style\\fonts\\woff\\Vazir-Light.woff",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\style\\fonts\\woff\\Vazir-Light.woff"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\style\\fonts\\woff\\Vazir-Medium.woff",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\style\\fonts\\woff\\Vazir-Medium.woff"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\style\\fonts\\woff\\Vazir-Thin.woff",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\style\\fonts\\woff\\Vazir-Thin.woff"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\style\\fonts\\woff\\Vazir.woff",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\style\\fonts\\woff\\Vazir.woff"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\style\\js\\holder.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\examples\\style\\js\\holder.min.js"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\bootstrap-v4-rtl-master\\package.json",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-v4-rtl-master\\package.json"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\yekanV3.0\\Yekan.eot",
+      "PackagePath": "staticwebassets\\assets\\plugins\\yekanV3.0\\Yekan.eot"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\yekanV3.0\\Yekan.svg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\yekanV3.0\\Yekan.svg"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\yekanV3.0\\Yekan.ttf",
+      "PackagePath": "staticwebassets\\assets\\plugins\\yekanV3.0\\Yekan.ttf"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\assets\\plugins\\yekanV3.0\\Yekan.woff",
+      "PackagePath": "staticwebassets\\assets\\plugins\\yekanV3.0\\Yekan.woff"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\MySites\\CafeMVC\\Cafe_MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Cafe_MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Cafe_MVC.props",
+      "PackagePath": "build\\Cafe_MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Cafe_MVC.props",
+      "PackagePath": "buildMultiTargeting\\Cafe_MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Cafe_MVC.props",
+      "PackagePath": "buildTransitive\\Cafe_MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

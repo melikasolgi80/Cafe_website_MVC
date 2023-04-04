@@ -1,0 +1,348 @@
+@font-face {
+    font-family: "yekanFont";
+    src:url("/assets/plugins/yekanV3.0/Yekan.eot")format("eot");
+    src: url("/assets/plugins/yekanV3.0/Yekan.woff") format("woff");
+    src:url("/assets/plugins/yekanV3.0/Yekan.ttf")format("ttf");
+    src:url("/assets/plugins/yekanV3.0/Yekan.svg")format("svg");
+
+}
+*{
+    box-sizing: border-box;
+}
+
+:root{
+    --font-color:rgba(0, 0, 0, 0.925);
+}
+
+/* body .container .row video
+{
+    width: 100%;
+     height: 100%;
+} */
+
+
+body{
+    font-family: "yekanFont" ,Arial,sans-serif;
+    font-weight: normal;
+color:#000000;
+/* background-color: #A4826D ; */
+background:  #e1c08f ;
+
+
+}
+body .section_header .container .row img
+{
+    width: 100%;
+   height: 100%;
+}
+header{
+
+   background: #000000;  /* fallback for old browsers */
+   background: -webkit-linear-gradient(to right, #434343, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+   background: linear-gradient(to right, #434343, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+ }
+.section_header{
+
+   background: #000000;  /* fallback for old browsers */
+   background: -webkit-linear-gradient(to right, #434343, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+   background: linear-gradient(to right, #434343, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+ }
+ header a
+ {
+    font-size: 1.2em;
+  
+ }
+
+
+.navbar .navbar-brand
+{
+   color: #ffffff ;
+   font-size: 1.3em;
+}
+ .dropdown-content
+ {
+    display: none;
+    position:absolute;
+    min-width: 160px;
+    box-shadow: 0px 2px 15px 0px rgba(0,0 ,0 ,2);
+    z-index:1;
+ }
+
+ .dropdown-content a
+ {
+   color: #ffffff ;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  
+ }
+
+ .dropdown-content a:hover
+ {
+   background-color:  #3f2f2f;
+ }
+
+ .dropdown:hover .dropdown-content
+ {
+    display: block;
+
+    background-image: linear-gradient( 135deg, #F05F57 10%, #360940 100%);
+  
+ }
+
+ header .nav-item:last-child
+ {
+    padding-right: 10.5em;
+ }
+
+ header .nav-item
+ {
+    padding: 0.6em;
+ }
+ 
+ .container .row .btn
+ {
+   background-image: linear-gradient( 135deg, #F05F57 10%, #360940 100%);
+ }
+ .navbar-toggler 
+{
+  
+   background-image: linear-gradient( 135deg, #F05F57 10%, #360940 100%);
+   
+}
+.navbar .nav-link
+{
+   color: #ffffff ;
+font-size: 1.2em;
+}
+.navbar .nav-link:hover
+{
+   /* background-color: #BE5869; */
+
+   background-image: linear-gradient( 135deg, #F05F57 10%, #360940 100%);
+
+}
+
+.swiper .btn .swiper-slide
+{
+   background-image: linear-gradient( 135deg, #F05F57 10%, #360940 100%);
+ 
+}
+.swiperbtn .btn:hover
+ {
+   background-color:  #000000;
+ } 
+
+.swiper-button-next,
+.swiper-button-prev{
+   border:var(--border-hover);
+   height:2rem;
+   width:2rem;
+   color: rgb(255, 255, 255);
+   background: rgb(0, 0, 0);
+  
+}
+
+.swiper-button-next::after,
+.swiper-button-prev::after{
+   font-size: 2rem;
+}
+
+.swiper-button-next:hover,
+.swiper-button-prev:hover{
+   background:#be586900;
+   color: rgb(255, 255, 255);
+}
+
+
+
+/*  section 2 started/*/
+.swiper
+{
+width: 750px;
+}
+
+.section_2 .swiper .card
+{
+   background: #000000;  /* fallback for old browsers */
+   background: -webkit-linear-gradient(to right, #434343, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+   background: linear-gradient(to right, #434343, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+position: relative;
+
+}
+ .h1{
+   color: #000000;
+ 
+ 
+}
+.section_2  .content
+{
+image-rendering: auto;
+align-items: center;
+display:flex;
+
+
+}
+.section_2 
+{
+   display: flex;
+   position: relative;
+}
+
+/* section 3 started */
+.section_3
+{
+   display: flex;
+   position: relative;
+}
+
+.section_3 .swiper .card
+{
+   background: #000000;  /* fallback for old browsers */
+   background: -webkit-linear-gradient(to right, #434343, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+   background: linear-gradient(to right, #434343, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+position: relative;
+
+
+
+}
+.section_3  .content
+{
+image-rendering: auto;
+align-items: center;
+display:flex;
+}
+
+/* section 4 started */
+.section_4
+{
+   display: flex;
+   position: relative;
+}
+.section_4 .swiper .card
+{
+   background: #000000;  /* fallback for old browsers */
+   background: -webkit-linear-gradient(to right, #434343, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+   background: linear-gradient(to right, #434343, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+position: relative;
+}
+.section_4  .content
+{
+image-rendering: auto;
+align-items: center;
+display:flex;
+}
+
+
+/* section 5 started */
+.section_5
+{
+   display: flex;
+   position: relative;
+}
+.section_5 .swiper .card
+{
+   background: #000000;  /* fallback for old browsers */
+   background: -webkit-linear-gradient(to right, #434343, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+   background: linear-gradient(to right, #434343, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+position: relative;
+}
+.section_5  .content
+{
+image-rendering: auto;
+align-items: center;
+display:flex;
+}
+
+
+/* section 6 started */
+.section_6
+{
+   display: flex;
+   position: relative;
+}
+.section_6 .swiper .card
+{
+   background: #000000;  /* fallback for old browsers */
+   background: -webkit-linear-gradient(to right, #434343, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+   background: linear-gradient(to right, #434343, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+position: relative;
+}
+.section_6  .content
+{
+image-rendering: auto;
+align-items: center;
+display:flex;
+}
+
+
+footer
+{
+
+   background: #000000;  /* fallback for old browsers */
+   background: -webkit-linear-gradient(to right, #434343, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+   background: linear-gradient(to right, #434343, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    overflow-x: hidden;
+    padding: 10vmin 15vmin;
+}
+
+footer p>span
+{
+   color: #e8e0e6cd; 
+
+}
+
+footer p
+{
+   color: #ffffff;
+
+  
+}
+footer a
+{
+font-size: 1.1em;
+color: #ffffff;
+
+}
+footer a:hover
+{
+    color: #ffffff;
+   background: #403A3E; 
+   background: -webkit-linear-gradient(to right, #BE5869, #403A3E);  
+   background: linear-gradient(to right, #BE5869, #403A3E);
+   text-decoration: none;
+}
+footer a>i {
+   color: #A4826D ; 
+}
+footer .container-fluid .column
+{
+   color: #e6fccf;
+}
+footer .column i:hover
+{
+   background: #403A3E; 
+   background: -webkit-linear-gradient(to right, #BE5869, #403A3E);  
+   background: linear-gradient(to right, #BE5869, #403A3E);
+   text-decoration: none;
+}
+/*contact form style*/
+
+.cta-section
+{
+   background: #000000;  /* fallback for old browsers */
+   background: -webkit-linear-gradient(to right, #434343, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+   background: linear-gradient(to right, #434343, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.list-inline-item a
+{
+   color:  #e1c08f ;
+}
+.form-group  .btn
+{
+   background-image: linear-gradient( 135deg, #F05F57 10%, #360940 100%);
+  
+}
