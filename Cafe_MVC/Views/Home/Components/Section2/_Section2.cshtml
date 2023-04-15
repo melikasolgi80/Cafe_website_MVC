@@ -1,0 +1,26 @@
+﻿@model IEnumerable<Cafe_MVC.Models.Section2>
+
+
+<div class="h1  text-center mt-5">نوشیدنی گرم</div>
+<section class="section_2 ">
+    <div class="swiper mySwiper container ">
+        <div class="swiper-wrapper content   ">
+
+            @foreach(var Section2 in Model)
+            {
+                <div class="swiper-slide card " style="width: 18rem;">
+                    <img class=" card-img-top rounded" src="~/assets/caffee/@Section2.Image" alt="@Section2.Name">
+                    <h5 class="card-title text-center mt-3 text-light"> @Section2.Name  </h5>
+                </div>
+            }
+          
+
+
+
+
+        </div>
+
+        <div class="swiper-button-next"></div>
+        <div class="swiper-button-prev"></div>
+    </div>
+</section>

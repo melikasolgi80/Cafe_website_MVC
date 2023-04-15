@@ -1,5 +1,7 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
+﻿@model IndexModel
+
+@{
+    ViewData["Title"] = "صفحه اصلی";
 }
 
 
@@ -124,74 +126,20 @@
         </div>
     </section>
 
-    <div class="h1  text-center mt-5">نوشیدنی گرم</div>
-    <section class="section_2 ">
-        <div class="swiper mySwiper container ">
-            <div class="swiper-wrapper content   ">
-                <div class="swiper-slide card " style="width: 18rem;">
-                    <img class=" card-img-top rounded" src="./assets/caffee/4859.jpg" alt="Card image cap">
-                    <h5 class="card-title text-center mt-3 text-light"> title</h5>
-                </div>
 
-                <div class="swiper-slide card  " style="width: 18rem;">
-                    <img class=" card-img-top rounded" src="./assets/caffee/784.jpg" alt="Card image cap">
-                    <h5 class="card-title text-center mt-3 text-light">هات چاکلت </h5>
-                </div>
-                <div class="swiper-slide card " style="width: 18rem;">
-                    <img class=" card-img-top rounded" src="./assets/caffee/5446.jpg" alt="Card image cap">
-                    <h5 class="card-title text-center mt-3 text-light">Card title</h5>
-                </div>
-                <div class="swiper-slide card " style="width: 18rem;">
-                    <img class=" card-img-top rounded" src="./assets/caffee/11.jpg" alt="Card image cap">
-                    <h5 class="card-title text-center mt-3 text-light">Card title</h5>
-                </div>
-                <div class="swiper-slide card  " style="width: 18rem;">
-                    <img class=" card-img-top rounded" src="./assets/caffee/215.jpg" alt="Card image cap">
-                    <h5 class="card-title text-center mt-3 text-light">چای</h5>
-                </div>
-                <div class="swiper-slide card " style="width: 18rem;">
-                    <img class=" card-img-top rounded" src="./assets/caffee/336655.jpg" alt="Card image cap">
-                    <h5 class="card-title text-center mt-3 text-light">نسکافه</h5>
-                </div>
-            </div>
+ @*loading partial view*@
+@*<partial name="Section2" />*@
+@*@await Html.PartialAsync("Section2")*@
+@*end loading partial view*@
 
-            <div class="swiper-button-next"></div>
-            <div class="swiper-button-prev"></div>
-        </div>
-    </section>
+@* loading view component *@
+@await Component.InvokeAsync("Section2")
 
-    <div class="h1  text-center  mt-5">نوشیدنی سرد</div>
-    <section class="section_3 ">
-        <div class="swiper mySwiper container ">
-            <div class="swiper-wrapper content   ">
-                <div class="swiper-slide card " style="width: 18rem;">
-                    <img class=" card-img-top rounded" src="./assets/caffee/5655.jpg" alt="Card image cap">
-                    <h5 class="card-title text-center mt-3 text-light">موهیتو</h5>
-                </div>
+@await Component.InvokeAsync("Section3")
+@* end view component *@
 
-                <div class="swiper-slide card  " style="width: 18rem;">
-                    <img class=" card-img-top rounded" src="./assets/caffee/1515.jpg" alt="Card image cap">
-                    <h5 class="card-title text-center mt-3 text-light">آب پرتقال</h5>
-                </div>
-                <div class="swiper-slide card " style="width: 18rem;">
-                    <img class=" card-img-top rounded" src="./assets/caffee/1588.jpg" alt="Card image cap">
-                    <h5 class="card-title text-center mt-3 text-light">آیس لاته</h5>
-                </div>
 
-                <div class="swiper-slide card  " style="width: 18rem;">
-                    <img class=" card-img-top rounded" src="./assets/caffee/8456.jpg" alt="Card image cap">
-                    <h5 class="card-title text-center mt-3 text-light">اسموتی کیوی</h5>
-                </div>
-                <div class="swiper-slide card " style="width: 18rem;">
-                    <img class=" card-img-top rounded" src="./assets/caffee/4895.jpg" alt="Card image cap">
-                    <h5 class="card-title text-center mt-3 text-light">منگوبن</h5>
-                </div>
-            </div>
 
-            <div class="swiper-button-next"></div>
-            <div class="swiper-button-prev"></div>
-        </div>
-    </section>
 
     <div class="h1  text-center mt-5">کیک</div>
     <section class="section_4 ">

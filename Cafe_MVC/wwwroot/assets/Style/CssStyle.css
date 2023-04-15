@@ -21,14 +21,11 @@
 } */
 
 
-body{
-    font-family: "yekanFont" ,Arial,sans-serif;
+body {
+    font-family: "yekanFont",Arial,sans-serif;
     font-weight: normal;
-color:#000000;
-/* background-color: #A4826D ; */
-background:  #e1c08f ;
-
-
+    color: #000000;
+    background-color: #e1c08f;
 }
 body .section_header .container .row img
 {
@@ -340,9 +337,13 @@ footer .column i:hover
 .list-inline-item a
 {
    color:  #e1c08f ;
+
 }
 .form-group  .btn
 {
    background-image: linear-gradient( 135deg, #F05F57 10%, #360940 100%);
   
+}
+body .main-wrapper {
+    background-color: #e1c08f;
 }

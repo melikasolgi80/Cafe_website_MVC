@@ -16,6 +16,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\MySites\CafeMVC\Cafe_MVC
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/MySites/CafeMVC/Cafe_MVC/Views/Home/Components/Section2/_Section2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb21wb25lbnRzXFNlY3Rpb24yXF9TZWN0aW9uMi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MySites/CafeMVC/Cafe_MVC/Views/Home/Components/Section3/_Section3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb21wb25lbnRzXFNlY3Rpb24zXF9TZWN0aW9uMy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/MySites/CafeMVC/Cafe_MVC/Views/Home/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

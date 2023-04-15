@@ -27,7 +27,7 @@
                     <div class="mr-auto "></div>
                     <ul class="navbar-nav  ">
                         <li class="nav-item active ">
-                            <a class="nav-link p-0  " href="#home">خانه <span class="sr-only">(current)</span></a>
+                            <a class="nav-link p-0  " href="@Url.Action("Index", "Home")" >خانه <span class="sr-only">(current)</span></a>
                         </li>
                         <li class="nav-item dropdown  p-0 ">
                             <div class="dropdown ">
@@ -48,7 +48,7 @@
                             <a class="nav-link " href="#aboutus">درباره ما</a>
                         </li>
                         <li class="nav-item p-0">
-                            <a class="nav-link " href="#contactus">ارتباط با ما</a>
+                            <a class="nav-link " asp-controller="Home" asp-action="Contact" >ارتباط با ما</a>
                         </li>
                     </ul>
                 </div>
