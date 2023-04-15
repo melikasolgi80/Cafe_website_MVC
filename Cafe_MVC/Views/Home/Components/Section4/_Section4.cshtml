@@ -1,0 +1,26 @@
+﻿@model List<Section4>
+
+
+<div class="h1  text-center mt-5">کیک</div>
+<section class="section_4 ">
+    <div class="swiper mySwiper container ">
+        <div class="swiper-wrapper content   ">
+
+
+            @foreach (var Section4 in Model)
+            {
+                <div class="swiper-slide card " style="width: 18rem;">
+                    <img class=" card-img-top rounded" src="~/assets/caffee/@Section4.Image" alt="@Section4.Name">
+                    <h5 class="card-title text-center mt-3 text-light"> @Section4.Name</h5>
+                </div>
+
+
+            }
+
+       
+        </div>
+
+        <div class="swiper-button-next"></div>
+        <div class="swiper-button-prev"></div>
+    </div>
+</section>
