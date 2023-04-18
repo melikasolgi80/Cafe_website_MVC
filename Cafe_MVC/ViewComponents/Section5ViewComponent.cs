@@ -17,7 +17,7 @@ namespace Cafe_MVC.ViewComponents
                 new Section5("شیک بری","1511.jpg"),
                 new Section5("شیک دارک","9543.jpg"),
                 new Section5("شیک نوتلا","482.jpg"),
-                new Section5("شیک نسکافه","8854.jpg"),
+                new Section5("شیک نسکافه","8845.jpg"),
 
 
 
