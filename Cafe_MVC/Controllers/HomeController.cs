@@ -34,10 +34,15 @@ namespace Cafe_MVC.Controllers
         //  }
 
         [HttpPost]
-        public JsonResult Contact(IFormCollection form)
-        { 
-            Console.WriteLine(form.ToString());     
-            return Json(Ok());
+        public IActionResult Contact(Contact model)
+        {
+            if (!ModelState.IsValid)
+            {
+                ViewBag.error = "اطلاعات وارد شده صحیح نیست.لطفا دوباره تلاش کنید";
+                return View(model);
+            }
+            ViewBag.success = "پیغام شما با موفقیت ارسال شد .با تشکر";
+            return View();
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
