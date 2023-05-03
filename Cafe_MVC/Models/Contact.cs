@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using Microsoft.AspNetCore.Mvc.Rendering;
+using System.ComponentModel.DataAnnotations;
 
 namespace Cafe_MVC.Models
 {
@@ -13,6 +14,8 @@ namespace Cafe_MVC.Models
         [EmailAddress(ErrorMessage ="ایمیل وارد شده صحیح نیست")]
         public string Email { get; set; }
         public string Message { get; set; }
-        public string Service { get; set; }
+        public int Service { get; set; }
+
+        public SelectList Services { get; set; }
     }
 }
